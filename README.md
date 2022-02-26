@@ -15,7 +15,7 @@
 - 학기 말 프로젝트 코드는 각자 깃허브에 업로드합니다.
 
 ## 스터디 노션
-https://www.notion.so/d7a83356d4f4453d8ee32d2ab84f6fbb
+https://www.notion.so/1c1b29cae68c42d7b12b80315cf2a37c
 
 ## 커리큘럼
 - 강의는 스탠포드 대학의 19년 겨울학기 cs234 수업으로 진행합니다. (총 15강)
